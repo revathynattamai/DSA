@@ -33,3 +33,4 @@ a.push("codecamp")
 console.log(a.peek())
 console.log(a.pop())
 console.log(a.peek())
+
